@@ -1,5 +1,5 @@
 # Analyses of the scale and variable contingent effects in freshwater habitat clusters
-Code for the analyses presented in the article: Schürz, M., García Márquez, J., and Domisch, S. (2025): "The scale-dependency in freshwater habitat regionalisation analyses". *Ecohydrology*. [https://doi.org/10.1002/eco.70018](https://doi.org/10.1002/eco.70018).
+Code for the analyses presented in the article: Schürz, M., García Márquez, J., Domisch, S. (2025): "The scale-dependency in freshwater habitat regionalisation analyses". *Ecohydrology*. [https://doi.org/10.1002/eco.70018](https://doi.org/10.1002/eco.70018).
 
 
 ## Citation
